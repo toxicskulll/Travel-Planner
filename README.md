@@ -94,9 +94,11 @@ CREATE TABLE users (
 - AI Integration: Python + Groq
 - UI Theme: Custom Cyberpunk
 
-## Contributing
-
-Feel free to fork the project and submit pull requests for any improvements.
+### Our Team✨
+<a href="https://github.com/abhayprabhakar" style="text-decoration: none"><img src="https://contrib.rocks/image?repo=abhayprabhakar/abhayprabhakar"/></a>
+<a href="https://github.com/devady" style="text-decoration: none"><img src="https://contrib.rocks/image?repo=devady/devady"/></a>
+<a href="https://github.com/toxicskulll" style="text-decoration: none"><img src="https://contrib.rocks/image?repo=toxicskulll/AI-for-Enhancing-Energy-Efficiency-in-Smart-Buildings"/></a>
+<a href="https://github.com/knighthyper" style="text-decoration: none"><img src="https://contrib.rocks/image?repo=knighthyper/clone"/></a>
 
 ## License
 
